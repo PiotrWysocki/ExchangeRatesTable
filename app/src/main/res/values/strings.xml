@@ -1,0 +1,16 @@
+<resources>
+    <!-- Title for the application. -->
+    <string name="app_name">Tabela kursów walut</string>
+
+    <!-- Text to display in the list when there are no exchange rates -->
+    <string name="no_exchange_rates">Nie znaleziono kursów wymiany walut.</string>
+
+    <!-- Error message when there is no internet connectivity -->
+    <string name="no_internet_connection">Brak połączenia z internetem.</string>
+
+    <!-- Label for bid -->
+    <string name="bid_label">Kupno</string>
+
+    <!-- Label for ask -->
+    <string name="ask_label">Sprzedaż</string>
+</resources>

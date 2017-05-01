@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#4CAF50</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#388E3C</color>
+
+    <!-- Accent color of the app -->
+    <color name="colorAccent">#FFAA00</color>
+
+    <!-- Text color for the currencies of the exchange rate in the list item -->
+    <color name="textColorExchangeRateCurrency">#797979</color>
+
+    <!-- Text color for the labels of the exchange rate in the list item -->
+    <color name="textColorExchangeRateLabels">#9B9B9B</color>
+
+    <!-- Text color for the values of the exchange rate in the list item -->
+    <color name="textColorExchangeRateValues">#656565</color>
+</resources>
