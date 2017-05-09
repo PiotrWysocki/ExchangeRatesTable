@@ -46,7 +46,7 @@ public class ExchangeRatesAdapter extends ArrayAdapter<ExchangeRates> {
                     R.layout.exchange_rate_list_item, parent, false);
         }
 
-        // Find the exchange rates at the given position in the list of exchange rates
+        // Find the exchange rate at the given position in the list of exchange rates
         ExchangeRates currentExchangeRates = getItem(position);
 
         // Find the TextView with view ID currency

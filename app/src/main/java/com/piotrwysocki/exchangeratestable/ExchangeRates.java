@@ -5,7 +5,7 @@ package com.piotrwysocki.exchangeratestable;
  */
 
 /**
- * An {@link ExchangeRates} object contains information related to a single earthquake.
+ * An {@link ExchangeRates} object contains information related to a single exchange rate.
  */
 public class ExchangeRates {
 
